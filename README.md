@@ -3,41 +3,35 @@
 🎓 **BE in Computer Science and Engineering** | Aspiring **Full Stack Developer**  
 💻 Passionate about **Web Development, Cloud Computing, and Problem Solving**  
 
----
-
 ## 🚀 About Me  
 - 🌱 Currently learning **Java** and **Frontend Development (React, JS, CSS)**  
 - ☁️ Completed **AWS for Beginners** & **Google Cloud Foundations** certifications  
 - 💡 Interested in **Full Stack Development** and **Cloud Technologies**  
-- ⚡ Strong in teamwork, adaptability, and quick learning  
-
----
+- ⚡ Strong in teamwork, adaptability, and quick learning 
 
 ## 🛠️ Tech Stack  
-**Frontend:** HTML, CSS, JavaScript, React 
-**Backend:** Java, Node.js  
-**Databases:** MySQL, MongoDB  
-**Tools:** Git, GitHub  
-
----
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30"/>
+</p>
 
 ## 📂 Projects  
 - 🎮 **Hand Gesture Game Control** – Built a gesture-based game controller.  
 - 🍲 **MERN Stack Recipe Finder** – Recipe-sharing platform with frontend + backend integration.  
 - 🎌 **Anime App** – Application for browsing anime details using APIs, enhancing frontend + API skills.  
 
----
-
 ## 📜 Certifications  
 - ✅ AWS for Beginners – *Great Learning*  
 - ✅ Cloud Foundations – *Great Learning*  
 - ✅ Google Cloud Computing Foundations – *Google Skills Boost*  
-
----
+- ✅ Salesforce Developer Bootcamp – *Inno Vally Works*  
 
 ## 🌐 Connect with Me  
 - 💼 [LinkedIn](www.linkedin.com/in/russellwicliffr1569) 
-- 📧 Email: *russellwicliff724@gmail.com*  
 
----
-✨ *"Stillness is the root of self-discipline."*  
+## 🌱 Fun Quote
+  > 🌿 "Every line of code is a step toward creating something meaningful." 
