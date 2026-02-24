@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Russell Wicliff  
 
 🎓 **BE in Computer Science and Engineering** | Aspiring **Software Tester**  
-💻 Passionate about **Software Testing, Cloud Computing**  
+💻 Passionate about **Software Testing | Manual & Automation**  
 
 ## 🚀 About Me  
-- 🌱 Currently learning **Java** and **Frontend Development (React, JS, CSS)**  
+- 🌱 Currently building skills in Software Testing & Automation Testing**  
 - ☁️ Completed **AWS for Beginners** & **Google Cloud Foundations** certifications  
 - 💡 Interested in **Software Testing** and **Cloud Technologies**  
 - ⚡ Strong in teamwork, adaptability, and quick learning 
