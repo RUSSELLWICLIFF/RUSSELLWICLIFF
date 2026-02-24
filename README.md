@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Russell Wicliff  
 
 🎓 **BE in Computer Science and Engineering** | Aspiring **Software Tester**  
-💻 Passionate about **Software Testing | Manual & Automation**  
+💻 Passionate about **Software Testing | Quality Assurance**  
 
 ## 🚀 About Me  
-- 🌱 Currently building skills in Software Testing & Automation Testing**  
-- ☁️ Completed **AWS for Beginners** & **Google Cloud Foundations** certifications  
-- 💡 Interested in **Software Testing** and **Cloud Technologies**  
-- ⚡ Strong in teamwork, adaptability, and quick learning 
+- 🌱 Currently building skills in **Manual Testing, SQL & Automation Testing**  
+- 🧪 Strong interest in ensuring software quality and improving user experience  
+- ⚡ Strong in teamwork, adaptability, and quick learning  
 
 ## 🛠️ Tech Stack  
 <p align="left">
@@ -20,10 +19,10 @@
 </p>
 
 ## 📂 Projects  
-- 🎮 **Hand Gesture Game Control** – Built a gesture-based game controller.  
-- 🔍 **AI Code Reviewer** –  Efficient code platform with frontend + backend integration.  
-- 🎌 **AnimeHub** – Application for browsing anime details using APIs, enhancing frontend + API skills. 
-- 🛡️ **GuardianX** – Application for security using React Native, enhancing Expo. 
+- 🎮 **Hand Gesture Game Control** – Developed and tested gesture-based interaction system.  
+- 🔍 **AI Code Reviewer** – Built and validated frontend + backend integration workflows.  
+- 🎌 **AnimeHub** – Tested API responses, UI workflows, and user scenarios.  
+- 🛡️ **GuardianX** – Validated application flows and security-related features.  
 
 ## 📜 Certifications  
 - ✅ AWS for Beginners – *Great Learning*  
@@ -32,7 +31,7 @@
 - ✅ Salesforce Developer Bootcamp – *Inno Vally Works*  
 
 ## 🌐 Connect with Me  
-- 💼 [LinkedIn](www.linkedin.com/in/russellwicliffr1569) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/russellwicliffr1569)  
 
 ## 🌱 Fun Quote
-  > 🌿 "Every line of code is a step toward creating something meaningful." 
+> 🌿 "Quality is never an accident; it is always the result of intelligent effort."
