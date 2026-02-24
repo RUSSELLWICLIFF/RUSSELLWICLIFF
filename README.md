@@ -21,7 +21,7 @@
 
 ## 📂 Projects  
 - 🎮 **Hand Gesture Game Control** – Built a gesture-based game controller.  
-- 🍲 **AI Code Reviewer** –  Efficient code platform with frontend + backend integration.  
+- 🔍 **AI Code Reviewer** –  Efficient code platform with frontend + backend integration.  
 - 🎌 **AnimeHub** – Application for browsing anime details using APIs, enhancing frontend + API skills. 
 - 🛡️ **GuardianX** – Application for security using React Native, enhancing Expo. 
 
