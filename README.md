@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Russell Wicliff  
 
-🎓 **BE in Computer Science and Engineering** | Aspiring **Full Stack Developer**  
-💻 Passionate about **Web Development, Cloud Computing, and Problem Solving**  
+🎓 **BE in Computer Science and Engineering** | Aspiring **Software Tester**  
+💻 Passionate about **Software Testing, Cloud Computing**  
 
 ## 🚀 About Me  
 - 🌱 Currently learning **Java** and **Frontend Development (React, JS, CSS)**  
 - ☁️ Completed **AWS for Beginners** & **Google Cloud Foundations** certifications  
-- 💡 Interested in **Full Stack Development** and **Cloud Technologies**  
+- 💡 Interested in **Software Testing** and **Cloud Technologies**  
 - ⚡ Strong in teamwork, adaptability, and quick learning 
 
 ## 🛠️ Tech Stack  
@@ -21,8 +21,9 @@
 
 ## 📂 Projects  
 - 🎮 **Hand Gesture Game Control** – Built a gesture-based game controller.  
-- 🍲 **MERN Stack Recipe Finder** – Recipe-sharing platform with frontend + backend integration.  
-- 🎌 **Anime App** – Application for browsing anime details using APIs, enhancing frontend + API skills.  
+- 🍲 **AI Code Reviewer** –  Efficient code platform with frontend + backend integration.  
+- 🎌 **AnimeHub** – Application for browsing anime details using APIs, enhancing frontend + API skills. 
+- 🛡️ **GuardianX** – Application for security using React Native, enhancing Expo. 
 
 ## 📜 Certifications  
 - ✅ AWS for Beginners – *Great Learning*  
