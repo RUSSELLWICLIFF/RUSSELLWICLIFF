@@ -61,7 +61,7 @@ Developed and tested a personal safety application with SOS alerts, live locatio
 
 # 🌐 Connect with Me
 💼 LinkedIn  
-https://www.linkedin.com/in/russellwicliffr1569
+linkedin.com/in/russellwicliffr1569
 
 ---
 
