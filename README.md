@@ -27,36 +27,6 @@
 
 ---
 
-# 📂 Projects
-
-### ☁️ AWS Static Website Hosting
-
-Hosted a static website using AWS S3 with cloud deployment and storage configuration.
-**Tech Stack:** AWS S3, HTML, CSS
-
----
-
-### 🐧 Linux Server Setup
-
-Configured and managed a Linux virtual machine with basic server administration and networking setup.
-**Tech Stack:** Linux, VirtualBox
-
----
-
-### 🐳 Docker Container Deployment
-
-Built and deployed applications using Docker containers for simplified application management.
-**Tech Stack:** Docker, Linux
-
----
-
-### 🔍 API Testing Project
-
-Performed API testing and validated request-response workflows using Postman.
-**Tech Stack:** Postman, MySQL
-
----
-
 # 📜 Certifications
 
 * ✅ AWS for Beginners – *Great Learning*
