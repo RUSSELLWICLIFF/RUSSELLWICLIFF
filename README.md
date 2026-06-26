@@ -39,7 +39,6 @@
 * ✅ AWS for Beginners — *Great Learning*
 * ✅ Cloud Foundations — *Great Learning*
 * ✅ Google Cloud Computing Foundations — *Google Skills Boost*
-* ✅ Salesforce Developer Bootcamp — *Inno Vally Works*
 
 ---
 
